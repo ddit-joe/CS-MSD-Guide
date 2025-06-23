@@ -11,7 +11,7 @@ Um ein neues Incident-Ticket zu eröffnen klicken Sie auf der Homepage auf "Inci
 
 ![Incident Formular](https://github.com/user-attachments/assets/21a4ce03-8fb3-498c-b229-07fa1d98aeb6)
 
-Bitte geben Sie im Formular eine kurze Zusammenfassung der Störung, eine möglichst genaue Beschreibung ab und wählen Sie die Kategorie aus.
+Bitte geben Sie im Formular eine kurze Zusammenfassung, eine möglichst genaue Beschreibung der Störung und wählen Sie die Kategorie aus.
 Falls keiner der vorgegebenen Kategorien zutreffend ist wählen Sie bitte "Undefined" aus.
 
 Anschließen wählen Sie bitte noch die Klassifizierung aus. Weitere Infos dazu entnehmen Sie dem offiziellen Vertragsdokument.
